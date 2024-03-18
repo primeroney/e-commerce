@@ -1,7 +1,7 @@
-# Laravel E-commerce
+# Primeroney E-commerce
 
 <!-- PROJECT LOGO -->
-<p align="center"><a href="https://demoshop.alialqahtani.sa" target="_blank"><img src="https://demoshop.alialqahtani.sa/img/logo.png" width="400" alt="Laravel-Ecommerce"></a></p>
+<p align="center"><a href="https://demoshop.primeroney.sa" target="_blank"><img src="https://demoshop.primeroney.sa/img/logo.png" width="400" alt="Primeroney-Ecommerce"></a></p>
 
 <p align="center">
   <p align="center">
@@ -56,11 +56,3 @@
    add mail configuration in .env
    ```
 
-## Permission folder
-sudo chmod -R 777 settings.json
-
-## Notes
-if you need countries, states, cities data (change database in public/ecommerce_world.sql line 22)
-
-## Contact
-* [Ali AlQahtani](https://alialqahtani.sa/#contacts)
