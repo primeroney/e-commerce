@@ -1,13 +1,13 @@
-# Primeroney E-commerce
+# Laravel E-commerce
 
 <!-- PROJECT LOGO -->
-<p align="center"><a href="https://demoshop.primeroney.sa" target="_blank"><img src="https://demoshop.primeroney.sa/img/logo.png" width="400" alt="Primeroney-Ecommerce"></a></p>
+<p align="center"><a href="demoshop.alialqahtani.sa" target="_blank"><img src="https://demoshop.alialqahtani.sa/img/logo.png" width="400" alt="Laravel-Ecommerce"></a></p>
 
 <p align="center">
   <p align="center">
-    <a href="https://github.com/primeroney/e-commerce/issues">Report Bug</a>
+    <a href="https://github.com/alijumaan/laravel-ecommerce/issues">Report Bug</a>
     ·
-    <a href="https://github.com/primeroney/e-commerce/issues">Request Feature</a>
+    <a href="https://github.com/alijumaan/laravel-ecommerce/issues">Request Feature</a>
   </p>
 
 ### Installation
